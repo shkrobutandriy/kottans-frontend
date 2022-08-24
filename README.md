@@ -29,15 +29,43 @@ Here I will mark my progress and report on the progress of my training.
 ---
 
 # Git and GitHub
+### Repeated the commands Git. Learned to interact better with branches.
 <details><summary>Git</summary>
+
 ![Screenshot git-base](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task-git/git-base.jpg)
+
+</details>
+<details><summary>Screenshot of Quiz 1</summary>
+
 ![Screenshot git-repo](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task-git/git-repo.jpg)
-### Repeated the commands Git. Learned to interact better with branches
+
 </details>
 
 ---
 
 # Linux, Command Line, HTTP Tools
+<details><summary>Screenshot of Quiz 1</summary>
+
+![Screenshot of Quiz 1](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_linux_cli/linux%20Quiz%201.jpg)
+
+</details>
+<details><summary>Screenshot of Quiz 2</summary>
+
+![Screenshot of Quiz 2](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_linux_cli/linux%20Quiz%202.jpg)
+
+</details>
+<details><summary>Screenshot of Quiz 3</summary>
+
+![Screenshot of Quiz 3](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_linux_cli/linux%20Quiz%203.jpg)
+
+</details>
+<details><summary>Screenshot of Quiz 4</summary>
+
+![Screenshot of Quiz 4](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_linux_cli/linux%20Quiz%204.jpg)
+
+</details>
 <details><summary>Linux</summary>
 ### Interesting operating system, need more practice.
 </details>
+
+
