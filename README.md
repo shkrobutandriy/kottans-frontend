@@ -30,14 +30,26 @@ Here I will mark my progress and report on the progress of my training.
 
 # Git and GitHub
 ### Repeated the commands Git. Learned to interact better with branches.
-<details><summary>Git</summary>
+<details><summary>Git-base</summary>
 
 ![Screenshot git-base](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task-git/git-base.jpg)
 
 </details>
-<details><summary>Screenshot of Quiz 1</summary>
+<details><summary>Git-repo</summary>
 
 ![Screenshot git-repo](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task-git/git-repo.jpg)
+
+</details>
+
+<details><summary>Screenshot of Quiz 1</summary>
+
+![Screenshot coursera](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task-git/coursera week 1.jpg)
+
+</details>
+
+<details><summary>Screenshot of Quiz 1</summary>
+
+![Screenshot coursera](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task-git/coursera week 2.jpg)
 
 </details>
 
@@ -69,3 +81,27 @@ Here I will mark my progress and report on the progress of my training.
 </details>
 
 
+## Git Collaboration
+### Learned to resolve conflicts and a simple pull request on GitHub.
+<details><summary>Git-base</summary>
+
+![Screenshot git-base](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_git_collaboration/git-base.jpg)
+
+</details>
+<details><summary>Git-repo</summary>
+
+![Screenshot git-repo](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_git_collaboration/git-repo.jpg)
+
+</details>
+
+<details><summary>Screenshot of coursera week 3</summary>
+
+![Screenshot coursera](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_git_collaboration/coursera week 3.jpg)
+
+</details>
+
+<details><summary>Screenshot of coursera week 4</summary>
+
+![Screenshot coursera](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_git_collaboration/coursera week 4.jpg)
+
+</details>
