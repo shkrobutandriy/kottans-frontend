@@ -12,7 +12,7 @@ Here I will mark my progress and report on the progress of my training.
 
 - [x] **Git Basics**
 - [x] **Linux CLI and Networking**
-- [ ] **VCS (hello gitty), GitHub and Collaboration**
+- [x] **VCS (hello gitty), GitHub and Collaboration**
 - [ ] **Intro to HTML & CSS**
 - [ ] **Responsive Web Design**
 - [ ] **HTML & CSS Practice**
@@ -43,13 +43,13 @@ Here I will mark my progress and report on the progress of my training.
 
 <details><summary>Screenshot of Quiz 1</summary>
 
-![Screenshot coursera](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task-git/coursera week 1.jpg)
+![Screenshot coursera](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task-git/coursera-week-1.jpg)
 
 </details>
 
 <details><summary>Screenshot of Quiz 1</summary>
 
-![Screenshot coursera](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task-git/coursera week 2.jpg)
+![Screenshot coursera](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task-git/coursera-week-2.jpg)
 
 </details>
 
@@ -96,12 +96,12 @@ Here I will mark my progress and report on the progress of my training.
 
 <details><summary>Screenshot of coursera week 3</summary>
 
-![Screenshot coursera](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_git_collaboration/coursera week 3.jpg)
+![Screenshot coursera](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_git_collaboration/coursera-week-3.jpg)
 
 </details>
 
 <details><summary>Screenshot of coursera week 4</summary>
 
-![Screenshot coursera](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_git_collaboration/coursera week 4.jpg)
+![Screenshot coursera](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_git_collaboration/coursera-week-4.jpg)
 
 </details>
