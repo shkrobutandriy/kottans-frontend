@@ -13,7 +13,7 @@ Here I will mark my progress and report on the progress of my training.
 - [x] **Git Basics**
 - [x] **Linux CLI and Networking**
 - [x] **VCS (hello gitty), GitHub and Collaboration**
-- [ ] **Intro to HTML & CSS**
+- [x] **Intro to HTML & CSS**
 - [ ] **Responsive Web Design**
 - [ ] **HTML & CSS Practice**
 - [ ] **JavaScript Basics**
@@ -103,5 +103,24 @@ Here I will mark my progress and report on the progress of my training.
 <details><summary>Screenshot of coursera week 4</summary>
 
 ![Screenshot coursera](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_git_collaboration/coursera-week-4.jpg)
+
+</details>
+
+## Intro to HTML and CSS
+<details><summary>Codecademy-HTML_CSS</summary>
+
+![Screenshot Codecademy-HTML_CSS](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_html_css_intro/codecademy-html-css.jpg)
+
+</details>
+
+<details><summary>Screenshot of coursera week 1</summary>
+
+![Screenshot coursera](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_html_css_intro/coursera-week1.jpg)
+
+</details>
+
+<details><summary>Screenshot of coursera week 2</summary>
+
+![Screenshot coursera](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_html_css_intro/coursera-week2.jpg)
 
 </details>
