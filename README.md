@@ -124,3 +124,29 @@ Here I will mark my progress and report on the progress of my training.
 ![Screenshot coursera](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_html_css_intro/coursera-week2.jpg)
 
 </details>
+
+## Responsive Web Design
+### Repeated and practiced FLEXBOX and CSS Grid Layout.
+<details><summary>Lessons-fexbox</summary>
+
+![Screenshot lessons-flexbox](https://github.com/shkrobutandriy/kottans-frontend/blob/task_responsive_web_design/lessons-flexbox.jpg)
+
+</details>
+
+<details><summary>Screenshot of lessons-grid</summary>
+
+![Screenshot lessons-grid](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_responsive_web_design/lessons-grid.jpg)
+
+</details>
+
+<details><summary>Screenshot of Flexbox-froggy</summary>
+
+![Screenshot Flexbox-froggy](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_responsive_web_design/flexbox-froggy.jpg)
+
+</details>
+
+<details><summary>Screenshot of Grid-garden</summary>
+
+![Screenshot Grid-garden](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_responsive_web_design/grid-garden.jpg)
+
+</details>
