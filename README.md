@@ -14,9 +14,9 @@ Here I will mark my progress and report on the progress of my training.
 - [x] **Linux CLI and Networking**
 - [x] **VCS (hello gitty), GitHub and Collaboration**
 - [x] **Intro to HTML & CSS**
-- [ ] **Responsive Web Design**
-- [ ] **HTML & CSS Practice**
-- [ ] **JavaScript Basics**
+- [x] **Responsive Web Design**
+- [x] **HTML & CSS Practice**
+- [x] **JavaScript Basics**
 - [ ] **Document Object Model - practice**
 - [ ] **Building a Tiny JS World (pre-OOP) - practice**
 - [ ] **Object oriented JS - practice**
@@ -148,5 +148,54 @@ Here I will mark my progress and report on the progress of my training.
 <details><summary>Screenshot of Grid-garden</summary>
 
 ![Screenshot Grid-garden](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_responsive_web_design/grid-garden.jpg)
+
+</details>
+
+## JS Basics
+<details><summary>Screenshot of Algorithm Scripting Challenges</summary>
+
+![Screenshot JS](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_js_basics/Algorithm_Scripting_Challenges.jpg)
+
+</details>
+
+<details><summary>Screenshot of Basic Algorithm Scripting</summary>
+
+![Screenshot JS](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_js_basics/Basic_Algorithm_Scripting.jpg)
+
+</details>
+
+<details><summary>Screenshot of Basic JavaScript</summary>
+
+![Screenshot JS](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_js_basics/Basic_JavaScript.jpg)
+
+</details>
+
+<details><summary>Screenshot of Basic Data Structures</summary>
+
+![Screenshot JS](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_js_basics/Basic_Data_Structures.jpg)
+
+</details>
+
+<details><summary>Screenshot of ES6 Challenges</summary>
+
+![Screenshot JS](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_js_basics/ES6_Challenges_17tasks.jpg)
+
+</details>
+
+<details><summary>Screenshot of Functional Programming</summary>
+
+![Screenshot JS](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_js_basics/Functional_Programming.jpg)
+
+</details>
+
+<details><summary>Screenshot of JS Coursera Week 3</summary>
+
+![Screenshot JS](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_js_basics/JS_Coursera_Week_3.jpg)
+
+</details>
+
+<details><summary>Screenshot of JS Coursera Week 4</summary>
+
+![Screenshot JS](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_js_basics/JS_Coursera_Week_4.jpg)
 
 </details>
