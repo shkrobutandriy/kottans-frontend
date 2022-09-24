@@ -17,7 +17,7 @@ Here I will mark my progress and report on the progress of my training.
 - [x] **Responsive Web Design**
 - [x] **HTML & CSS Practice**
 - [x] **JavaScript Basics**
-- [ ] **Document Object Model - practice**
+- [x] **Document Object Model - practice**
 - [ ] **Building a Tiny JS World (pre-OOP) - practice**
 - [ ] **Object oriented JS - practice**
 - [ ] **OOP exercise - practice**
@@ -29,7 +29,9 @@ Here I will mark my progress and report on the progress of my training.
 ---
 
 # Git and GitHub
+
 ### Repeated the commands Git. Learned to interact better with branches.
+
 <details><summary>Git-base</summary>
 
 ![Screenshot git-base](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task-git/git-base.jpg)
@@ -56,6 +58,7 @@ Here I will mark my progress and report on the progress of my training.
 ---
 
 # Linux, Command Line, HTTP Tools
+
 <details><summary>Screenshot of Quiz 1</summary>
 
 ![Screenshot of Quiz 1](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_linux_cli/linux%20Quiz%201.jpg)
@@ -80,9 +83,10 @@ Here I will mark my progress and report on the progress of my training.
 ### Interesting operating system, need more practice.
 </details>
 
-
 ## Git Collaboration
+
 ### Learned to resolve conflicts and a simple pull request on GitHub.
+
 <details><summary>Git-base</summary>
 
 ![Screenshot git-base](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_git_collaboration/git-base.jpg)
@@ -107,6 +111,7 @@ Here I will mark my progress and report on the progress of my training.
 </details>
 
 ## Intro to HTML and CSS
+
 <details><summary>Codecademy-HTML_CSS</summary>
 
 ![Screenshot Codecademy-HTML_CSS](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_html_css_intro/codecademy-html-css.jpg)
@@ -126,7 +131,9 @@ Here I will mark my progress and report on the progress of my training.
 </details>
 
 ## Responsive Web Design
+
 ### Repeated and practiced FLEXBOX and CSS Grid Layout.
+
 <details><summary>Lessons-fexbox</summary>
 
 ![Screenshot lessons-flexbox](https://github.com/shkrobutandriy/kottans-frontend/blob/task_responsive_web_design/lessons-flexbox.jpg)
@@ -152,6 +159,7 @@ Here I will mark my progress and report on the progress of my training.
 </details>
 
 ## JS Basics
+
 <details><summary>Screenshot of Algorithm Scripting Challenges</summary>
 
 ![Screenshot JS](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_js_basics/Algorithm_Scripting_Challenges.jpg)
@@ -197,5 +205,19 @@ Here I will mark my progress and report on the progress of my training.
 <details><summary>Screenshot of JS Coursera Week 4</summary>
 
 ![Screenshot JS](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_js_basics/JS_Coursera_Week_4.jpg)
+
+</details>
+
+## DOM
+
+<details><summary>Screenshot of Algorithm_Scripting_Challenges</summary>
+
+![Screenshot JS](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_js_dom/Algorithm_Scripting_Challenges.jpg)
+
+</details>
+
+<details><summary>Screenshot of JS Coursera Week 5</summary>
+
+![Screenshot JS](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_js_dom/JS_Coursera_Week_5.jpg)
 
 </details>
